@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hover-white:hover {
+    color: #fff !important;
+}
+
+.tracking-wide {
+    letter-spacing: 1px;
+}
+#banner{
+    background: rgba(0, 0, 0, 0.5) url(../img/Banner.jpg);
+    height: 85vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img{
+    height: 200px;
+}
+
+.card{
+    height: 100%;
+}
