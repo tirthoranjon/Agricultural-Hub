@@ -35,3 +35,15 @@
     z-index: 999;
     top: 0;
 }
+#header-section li a:hover{
+    color: rgb(189, 83, 83) !important;
+    border-bottom:rgb(189, 83, 83) solid 2px !important ;
+
+}
+#header-section li a{
+    color: rgb(7, 31, 252);
+}
+
+.active{
+    color: black !important;
+}
